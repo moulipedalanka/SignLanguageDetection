@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Itiscool</folder>
+	<filename>Itiscool.af34c666-94db-11eb-a4de-9828a6165cd8.jpg</filename>
+	<path>D:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\Itiscool\Itiscool.af34c666-94db-11eb-a4de-9828a6165cd8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ItisCool</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>272</ymin>
+			<xmax>471</xmax>
+			<ymax>409</ymax>
+		</bndbox>
+	</object>
+</annotation>

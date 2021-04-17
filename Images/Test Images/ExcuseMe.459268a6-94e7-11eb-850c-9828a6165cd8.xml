@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ExcuseMe</folder>
+	<filename>ExcuseMe.459268a6-94e7-11eb-850c-9828a6165cd8.jpg</filename>
+	<path>D:\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\ExcuseMe\ExcuseMe.459268a6-94e7-11eb-850c-9828a6165cd8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ExcuseMe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>291</xmin>
+			<ymin>229</ymin>
+			<xmax>512</xmax>
+			<ymax>390</ymax>
+		</bndbox>
+	</object>
+</annotation>
